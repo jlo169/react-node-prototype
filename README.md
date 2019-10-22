@@ -1,2 +1,2 @@
 # react-node-prototype
-making simple react component to pull info from json file using node
+Place to practice general implementation of a get request using node from a json file.
